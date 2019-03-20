@@ -1,1 +1,2 @@
 first story
+second story
